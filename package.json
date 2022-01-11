@@ -9,8 +9,17 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
+    "express": "^4.17.2",
     "moment": "^2.29.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1ct0rhug/meu-projeto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/v1ct0rhug/meu-projeto/issues"
+  },
+  "homepage": "https://github.com/v1ct0rhug/meu-projeto#readme",
   "description": ""
 }
